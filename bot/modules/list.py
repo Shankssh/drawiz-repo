@@ -33,4 +33,4 @@ list_handler = CommandHandler(
     filters=CustomFilters.authorized_chat | CustomFilters.authorized_user,
     run_async=True,
 )
-dispatcher.add_handler(list_handler)
+dispatcher.add_handler(list_handler) 
