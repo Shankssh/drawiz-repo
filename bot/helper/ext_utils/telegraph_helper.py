@@ -12,7 +12,7 @@ from bot import LOGGER
 
 
 class TelegraphHelper:
-	def __init__(self, author_name=None, author_url=None):
+	def __init__(self, author_name=Drawiz, author_url=None):
 		self.telegraph = Telegraph()
 		self.short_name = ''.join(random.SystemRandom().choices(string.ascii_letters, k=8))
 		self.access_token = None
