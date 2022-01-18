@@ -1,4 +1,4 @@
-[![HarshMirroRepo](https://telegra.ph/file/5d6de8adcfc1a7917c422.jpg)](https://t.me/HarshMirrorRepo)
+[![DrawizMirrorRepo](https://www.linkpicture.com/q/dmirrorrepo.jpg)](https://t.me/torrentleechergroup)
 
 # Important - Read these points first
 
@@ -58,6 +58,7 @@ Turn On RECURSIVE_SEARCH In Config -RECURSIVE_SEARCH = "True"
 ## Credits :-
 
 - First of all, full credit goes to
+  [Harsh Preet 63] https://github.com/harshpreets63/Mirror-Bot and
   [Shivam Jha aka lzzy12](https://github.com/lzzy12) and
   [JaskaranSM aka Zero Cool](https://github.com/jaskaranSM) They build up this
   bot from scratch.
@@ -96,10 +97,55 @@ in JS.
 
 ## Deploying on Heroku
 - Guide For Deploying on Heroku 
-<p><a href="https://telegra.ph/Hosting-Mirror-Bot-Guide-10-26"> <img src="https://img.shields.io/badge/Deploy%20Guide-blueviolet?style=for-the-badge&logo=heroku" width="170""/></a></p>
+<p><a href="https://telegra.ph/Hosting-Mirror-Bot-Guide-01-18"> <img src="https://img.shields.io/badge/Deploy%20Guide-blueviolet?style=for-the-badge&logo=heroku" width="170""/></a></p>
 
 # Contact Me 
-- [Telegram](https://T.me/HarshMirrorRepo)
+- [Telegram](https://t.me/torrentleechergroup)
+
+# Bot Commands
+```
+mirror - Mirror 
+zipmirror - Mirror and upload as zip 
+tarmirror - Mirror and upload as tar
+unzipmirror - Mirror and extract files 
+qbmirror - Mirror torrent using qBittorrent
+qbzipmirror - Mirror torrent and upload as zip using qb
+qbunzipmirror - Mirror torrent and extract files using qb
+leech - Leech 
+zipleech - Leech and upload as zip 
+tarleech -  Leech and upload as tar
+unzipleech - Leech and extract files 
+qbleech - Leech torrent using qBittorrent
+qbzipleech - Leech torrent and upload as zip using qb
+qbunzipleech - Leech torrent and extract using qb
+clone - Copy file/folder to Drive 
+count - Count file/folder of Drive 
+watch - Mirror yt-dlp supported link 
+zipwatch - Mirror yt-dlp supported link as zip 
+tarwatch - Mirror yt-dlp supported link as tar 
+leechwatch - Leech through yt-dlp supported link 
+leechzipwatch - Leech yt-dlp support link as zip 
+leechtarwatch - Leech yt-dlp support link as tar
+leechset - Leech settings 
+setthumb - Set thumbnail 
+status - Get Mirror Status message 
+rsslist - List all subscribed rss feed info 
+rssget - Get specific No. of links from specific rss feed 
+rsssub - Subscribe new rss feed 
+rssunsub - Unsubscribe rss feed by title 
+rssunsuball - Remove all rss feed subscriptions 
+list - Search files in Drive 
+search - Search for torrents with API 
+cancel - Cancel a task 
+cancelall - Cancel all tasks 
+del - Delete file/folder from Drive 
+log - Get the Bot Log 
+restart - Restart the Bot 
+stats - Bot Usage Stats 
+ping - Ping the Bot 
+help - All cmds with description
+ 
+```
 
 ## Generate Database
 <details>
