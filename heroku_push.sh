@@ -1,5 +1,5 @@
 #bin/bash
-echo "Auto Bot Host Script By Harsh."
+echo "Auto Bot Host Script By Drawiz."
 sleep 1
 echo "Note- This Is Only For QBIT Repo."
 sleep 1
