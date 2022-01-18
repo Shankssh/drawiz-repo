@@ -12,7 +12,7 @@ from bot import LOGGER
 
 
 class TelegraphHelper:
-	def __init__(self, author_name=Drawiz, author_url=None):
+	def __init__(self, author_name=None, author_url=None):
 		self.telegraph = Telegraph()
 		self.short_name = ''.join(random.SystemRandom().choices(string.ascii_letters, k=8))
 		self.access_token = None
@@ -57,4 +57,4 @@ class TelegraphHelper:
 			return self.edit_page(path, title, content)
 
 
-telegraph=TelegraphHelper('Drawiz Dynasty', 'https://github.com/drawizmonarch')
+telegraph=TelegraphHelper('Harsh Mirror Repo', 'https://github.com/harshpreets63/Mirror-Bot')
