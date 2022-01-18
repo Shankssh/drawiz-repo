@@ -1,4 +1,4 @@
-[![HarshMirroRepo](https://telegra.ph/file/5d6de8adcfc1a7917c422.jpg)](https://t.me/HarshMirrorRepo)
+[![DrawizMirrorRepo](https://www.linkpicture.com/q/dmirrorrepo.jpg)](https://t.me/torrentleechergroup)
 
 # Important - Read these points first
 
