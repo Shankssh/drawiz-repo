@@ -11,7 +11,7 @@ def list_drive(update, context):
     try:
         search = update.message.text.split(" ", maxsplit=1)[1]
         LOGGER.info(f"Searching: {search}")
-        reply = sendMessage("Searching..... Please wait!", context.bot, update)
+        reply = sendMessage("Searching From Drawiz Dynasty.. Wait a Minute 🤩", context.bot, update)
         gdrive = GoogleDriveHelper(None)
         if RECURSIVE_SEARCH:  
             msg, button = gdrive.uni_drive_list(search)
@@ -21,10 +21,10 @@ def list_drive(update, context):
         if button:
             editMessage(msg, reply, button)
         else:
-            editMessage("No result found", reply, button)
+            editMessage("Opps, not Available 😔", reply, button)
 
     except IndexError:
-        sendMessage("send a search key along with command", context.bot, update)
+        sendMessage("Send a Search Key Along with Command", context.bot, update)
 
 
 list_handler = CommandHandler(
