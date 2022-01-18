@@ -106,16 +106,20 @@ in JS.
 ```
 mirror - Mirror 
 zipmirror - Mirror and upload as zip 
+tarmirror - Mirror and upload as tar
 unzipmirror - Mirror and extract files 
 leech - Leech 
 zipleech - Leech and upload as zip 
+tarleech -  Leech and upload as tar
 unzipleech - Leech and extract files 
 clone - Copy file/folder to Drive 
 count - Count file/folder of Drive 
 watch - Mirror yt-dlp supported link 
 zipwatch - Mirror yt-dlp supported link as zip 
+tarwatch - Mirror yt-dlp supported link as tar 
 leechwatch - Leech through yt-dlp supported link 
 leechzipwatch - Leech yt-dlp support link as zip 
+leechtarwatch - Leech yt-dlp support link as tar
 leechset - Leech settings 
 setthumb - Set thumbnail 
 status - Get Mirror Status message 
@@ -133,7 +137,7 @@ log - Get the Bot Log
 restart - Restart the Bot 
 stats - Bot Usage Stats 
 ping - Ping the Bot 
-help - All cmds with description 
+help - All cmds with description
  
 ```
 
