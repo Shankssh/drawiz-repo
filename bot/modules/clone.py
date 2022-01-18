@@ -26,7 +26,7 @@ def cloneNode(update, context):
     gdtot_link = is_gdtot_link(link)
     if gdtot_link:
         try:
-            msg = sendMessage(f"Bypassing GDTOT Link.", context.bot, update)
+            msg = sendMessage(f"Adding GDTOT to Drive ☁️.", context.bot, update)
             link = gdtot(link)
             deleteMessage(context.bot, msg)
         except DirectDownloadLinkException as e:
@@ -93,7 +93,7 @@ def cloneNode(update, context):
             if LOGS_CHATS:
                 try:
                     for i in LOGS_CHATS:
-                        msg1 = f'<b>File Cloned: </b> <code>{name}</code>\n'
+                        msg1 += f'<b>File Cloned: </b> <code>{name}</code>\n'
                         msg1 += f'<b>Size: </b>{get_readable_file_size(size)}\n'
                         msg1 += f'<b>By: </b>{uname}\n'
                         bot.sendMessage(chat_id=i, text=msg1, reply_markup=button, parse_mode=ParseMode.HTML)
