@@ -14,17 +14,17 @@ URL_REGEX = r"(?:(?:https?|ftp):\/\/)?[\w/\-?=%.]+\.[\w/\-?=%.]+"
 
 class MirrorStatus:
      STATUS_UPLOADING = "⬆ ᴜᴘʟᴏᴀᴅɪɴɢ ⬆..."
-    STATUS_DOWNLOADING = "⬇ ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ⬇..."
-    STATUS_WAITING = "😌 ǫᴜᴇᴜᴇᴅ 😌..."
-    STATUS_FAILED = "😔 ғᴀɪʟᴇᴅ. ᴄʟᴇᴀɴɪɴɢ ᴅᴏᴡɴʟᴏᴀᴅ😔..."
-    STATUS_CANCELLED = "❌ ᴄᴀɴᴄᴇʟʟᴇᴅ ❌."
-    STATUS_ARCHIVING = "🌟 ᴀʀᴄʜɪᴠɪɴɢ 🌟 ..."
-    STATUS_EXTRACTING = "🔆 ᴇxᴛʀᴀᴄᴛɪɴɢ 🔆..."
-    STATUS_SPLITTING = "✂️ sᴘʟɪᴛᴛɪɴɢ ✂️..."
-    STATUS_CLONING = "⚡ ᴄʟᴏɴɪɴɢ ⚡..."
-    STATUS_PAUSE = "⏸️ ᴘᴀᴜsᴇᴅ ⏸️..."
-    STATUS_SEEDING = "🌱 sᴇᴇᴅɪɴɢ 🌱..."
-    STATUS_CHECKING = "✔️ ᴄʜᴇᴄᴋɪɴɢᴜᴘ ✔️..."
+     STATUS_DOWNLOADING = "⬇ ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ⬇..."
+     STATUS_WAITING = "😌 ǫᴜᴇᴜᴇᴅ 😌..."
+     STATUS_FAILED = "😔 ғᴀɪʟᴇᴅ. ᴄʟᴇᴀɴɪɴɢ ᴅᴏᴡɴʟᴏᴀᴅ😔..."
+     STATUS_CANCELLED = "❌ ᴄᴀɴᴄᴇʟʟᴇᴅ ❌."
+     STATUS_ARCHIVING = "🌟 ᴀʀᴄʜɪᴠɪɴɢ 🌟 ..."
+     STATUS_EXTRACTING = "🔆 ᴇxᴛʀᴀᴄᴛɪɴɢ 🔆..."
+     STATUS_SPLITTING = "✂️ sᴘʟɪᴛᴛɪɴɢ ✂️..."
+     STATUS_CLONING = "⚡ ᴄʟᴏɴɪɴɢ ⚡..."
+     STATUS_PAUSE = "⏸️ ᴘᴀᴜsᴇᴅ ⏸️..."
+     STATUS_SEEDING = "🌱 sᴇᴇᴅɪɴɢ 🌱..."
+     STATUS_CHECKING = "✔️ ᴄʜᴇᴄᴋɪɴɢᴜᴘ ✔️..."
 
 
 PROGRESS_MAX_SIZE = 100 // 8
