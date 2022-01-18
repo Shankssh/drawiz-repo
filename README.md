@@ -58,6 +58,7 @@ Turn On RECURSIVE_SEARCH In Config -RECURSIVE_SEARCH = "True"
 ## Credits :-
 
 - First of all, full credit goes to
+  [Harsh Preet 63] https://github.com/harshpreets63/Mirror-Bot and
   [Shivam Jha aka lzzy12](https://github.com/lzzy12) and
   [JaskaranSM aka Zero Cool](https://github.com/jaskaranSM) They build up this
   bot from scratch.
