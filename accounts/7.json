@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "argon-jetty-334215",
+  "private_key_id": "0a4fd49353a63b14448aa69124041c120d2078c9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC64s83udHbqw52\nXf8/rnVZvzmCOi0mTJ7JqyDZLDmZFRV591dGfZLUfdCZR5O2RXEKuCOf7PYXmoy/\n6neh13GS/smLtMLTFUrUWPFfemmGHIjU60EfWOHiCOuxQa1QKEVzUoPt1zmicT8V\nyMCia5n8m9L7NTZV0FMc0tbOuSFs2c0nlkCIGRXSE2IXKpN21I+ZlvT+hIpV0Wkg\nlyLtoIf5fqGglhSSQy7jZyUfc9chXShBPoyfK/yYpqRgnLF0759Ggede/ZZhgOnX\ndlqOnMaMEgjaFS31k7ZTi3V++n/U3v2ZZPHAcNn4TPmIzRN+ocu7UcaSlCasB/gv\n5vYR5Dp/AgMBAAECggEAMgzPISX3QYTQtTucQeJHlFcFoE5TTCgF+I2HmRHihRBj\n9YubyImV2qmtRXepZA255fyFse1kxNKDslwpWOMZjBwHPw6UhLJ1nWQKlJ70htG6\nhYdRpAMKT55C/PBRaZ+3Zdip83cJ/OqmUf+3M2hsz32t5dAM8rN9psECfU+QV5WQ\n9OYUB/L2H3KUvhMy6j+TLKzqYtQawhd9UjtHuyA+dd1q419Yw0JwXyCn2pfkBQPM\nqxwsy43tHrUxWP3Pdxwg5jLxfynj+HSMEnhWoB2J+NwBxSz1uPx8iCYRngGyfX02\nIXsSIYjqS2kEiFQ4i13aMaBIxj+J1nx38MxHJtvnOQKBgQD3SLDRFncHD9tbocuW\nl3vOYlzCTs4EbPZfsENr3psK4Y+SGI5LWmWC6zZqc6ZnN/w+N/8LHrNhdOl1YLO2\n3yaj6ihmbtt/BssMD+Ib4Cu4bLcDM/RdrSymBMT3zeY0vSlB+RjI44gOfTGnkI3j\nV5VCgZ2uGpOJ+pLRaLS7+JnIWQKBgQDBeSG0SalDDK7SkzbRrYWzmKw4bBnx5D4w\n/eiOC5KCO7xv/yIlyNRob919ObXBdhxfolz6QMl1gbWzSe4QBRY4VM3I7mRO4Hmi\nbiudAemy9rLIMmq4dxpQUniqVlg7uzCwLHKzWEYq2Cp33Y8GRMEPzNnjcTGRS011\nLA2CIMW+lwKBgHxVmFIJMZ/jYTAZkfwN/rouyuUIKp4fC2HhhoTeUKaP81hJ8IIC\n2beR/LJZo/mSNMoz7ZDxxs/hsODL1pDEcvFH8zhN1R9xkvZlphLODC2WvA5oOR5A\nzIpNK5xNcsphsjTxwnx/qxFd8XGHRVBh4TKnaVj5E+X0j42rT/STcv9BAoGAC1DD\nWOEKBkLioqw7g43riPJ/+BjSd6RKwuDGzi/9FKLbxY0deSpCygzo3l8Ws0buJ+W+\nHGDXp4i7kM3dH5C8mPTUyFCxCy/zzT02TcuD2JS3JiBUv48vuczpA8VjCbNMCLHA\nz551FCJqcXJC4DH7PKpVgAjpxj6qPBUkgRzbk+cCgYBDz/+6BN8a7DGq+yNfgjXS\nQ1lv72GKj6NBaRAzcSfck9Xlt61T0FWDZflqbtT1NZINnQWSyt9rZaOvrkZOHoEg\nt74lpL4OFLhPchJaZi/Uqt3BdMdANCvUGt+vVY5dbJ1nB6pX0/SAtVx3SzA19l2i\nQTYBfb0BzD2R3EqH8FXYIA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-4y9a6n-q4zcxws2ksd4kp98094@argon-jetty-334215.iam.gserviceaccount.com",
+  "client_id": "118067400437839165858",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-4y9a6n-q4zcxws2ksd4kp98094%40argon-jetty-334215.iam.gserviceaccount.com"
+}
