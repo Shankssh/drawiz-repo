@@ -26,7 +26,7 @@ def cloneNode(update, context):
     gdtot_link = is_gdtot_link(link)
     if gdtot_link:
         try:
-            msg = sendMessage(f"Bypassing GDTOT Link.", context.bot, update)
+            msg = sendMessage(f"Adding GDTOT to Drive ☁️.", context.bot, update)
             link = gdtot(link)
             deleteMessage(context.bot, msg)
         except DirectDownloadLinkException as e:
@@ -54,7 +54,7 @@ def cloneNode(update, context):
                 sendMessage(msg2, context.bot, update)
                 return        
         if files < 15:
-            msg = sendMessage(f"Cloning: <code>{link}</code>", context.bot, update)
+            msg = sendMessage(f"⚡ Cloning ⚡: <code>{link}</code>", context.bot, update)
             result, button = gd.clone(link)
             deleteMessage(context.bot, msg)
         else:
